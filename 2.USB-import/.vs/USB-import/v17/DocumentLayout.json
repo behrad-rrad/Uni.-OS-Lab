@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\behra\\OneDrive\\Desktop\\Sem.6\\OS Lab\\USB-import\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02821796-B708-4026-AADE-271DF8AAA3E1}|USB-import\\USB-import.csproj|c:\\users\\behra\\onedrive\\desktop\\sem.6\\os lab\\usb-import\\usb-import\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02821796-B708-4026-AADE-271DF8AAA3E1}|USB-import\\USB-import.csproj|solutionrelative:usb-import\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\behra\\OneDrive\\Desktop\\Sem.6\\OS Lab\\USB-import\\USB-import\\Program.cs",
+              "RelativeDocumentMoniker": "USB-import\\Program.cs",
+              "ToolTip": "C:\\Users\\behra\\OneDrive\\Desktop\\Sem.6\\OS Lab\\USB-import\\USB-import\\Program.cs",
+              "RelativeToolTip": "USB-import\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAqwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:56:53.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
