@@ -1,0 +1,18 @@
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Work with json file.exe
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Work with json file.deps.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Work with json file.runtimeconfig.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Work with json file.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Work with json file.pdb
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.AssemblyInfoInputs.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.AssemblyInfo.cs
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.csproj.CoreCompileInputs.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.sourcelink.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\refint\Work with json file.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.pdb
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.genruntimeconfig.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\ref\Work with json file.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work with json file.csproj.AssemblyReference.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Work with json file\Work with json file\obj\Debug\net8.0\Work wit.87C3E149.Up2Date

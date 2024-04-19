@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4pnaj+aLEmfCI3XGeZBQqv6RvOFeOX11bJSUryBcCUMPmae/2HJX3rNy4dQMD6Jkyqdjw2oRNuQpep1JSSNgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\behra\\OneDrive\\Desktop\\Sem.6\\OS Lab\\Work with json file\\Work with json file\\Work with json file.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\behra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
