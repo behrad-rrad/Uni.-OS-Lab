@@ -1,0 +1,15 @@
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\bin\Debug\net8.0\Download manager.exe
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\bin\Debug\net8.0\Download manager.deps.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\bin\Debug\net8.0\Download manager.runtimeconfig.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\bin\Debug\net8.0\Download manager.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\bin\Debug\net8.0\Download manager.pdb
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.AssemblyInfoInputs.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.AssemblyInfo.cs
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.csproj.CoreCompileInputs.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.sourcelink.json
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\refint\Download manager.dll
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.pdb
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\Download manager.genruntimeconfig.cache
+C:\Users\behra\OneDrive\Desktop\Sem.6\OS Lab\Download manager\Download manager\obj\Debug\net8.0\ref\Download manager.dll
